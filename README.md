@@ -28,5 +28,7 @@
   <img src="images/github.png" alt="Image 19" width="74" style="display:inline-block; margin-right: 10px;">
   <img src="images/jquery.png" alt="Image 20" width="74" style="display:inline-block; margin-right: 10px;">
   <img src="images/npm.png" alt="Image 21" width="74" style="display:inline-block; margin-right: 10px;">
+  <img src="images/graphql.png" alt="Image 22" width="74" style="display:inline-block; margin-right: 10px;">
+  <img src="images/jira.png" alt="Image 23" width="74" style="display:inline-block; margin-right: 10px;">
  
  
