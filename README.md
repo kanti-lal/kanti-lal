@@ -30,4 +30,9 @@
   <img src="images/graphql.png" alt="Image 22" width="74" style="display:inline-block; margin-right: 10px;">
   <img src="images/jira.png" alt="Image 23" width="74" style="display:inline-block; margin-right: 10px;">
  
+  
+ <h3>Connect with me </h3>
+ <a href="https://in.linkedin.com/in/kanti-lal-1342a1a3">
+    <img src="images/linkedinlogo.png" alt="linkedin" width="160">
+</a>
  
