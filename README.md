@@ -4,7 +4,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Engineer | ReactJs | NextJs Developer
 ----------------------------------------------
 
-I'm a Frontend Developer with over 3 years of experience specializing in React.js and Next.js. My journey in web development has been all about creating smooth, responsive, and interactive user experiences. I'm passionate about writing clean, maintainable code and continuously optimizing the frontend performance of applications. 🔥 What I bring to the table: Advanced skills in React.js and Next.js – from building reusable components to managing complex state with hooks, contexts, and libraries like Redux and React Query. Proficiency in UI/UX Design Principles – focused on making intuitive and visually appealing interfaces with tools like Tailwind CSS, Styled-Components, and Bootstrap. API Integration & State Management – experience working with REST APIs, GraphQL, and managing app state efficiently to ensure data-driven, dynamic applications. Performance Optimization – proficient in code-splitting, lazy loading, and Next.js static generation and server-side rendering to maximize app speed and SEO. 💡 A Few Highlights: Developed and deployed scalable Next.js applications for high-traffic platforms. Implemented dynamic data handling using React Query and built seamless, interactive UIs with complex logic. Integrated 3D models and animations using libraries like Spline, ensuring cross-device compatibility and high performance. 💼 Tech Stack: Languages: JavaScript, TypeScript Frontend: React.js, Next.js, Redux, React Query Styling: Tailwind CSS, Styled-Components, CSS Modules Tools: Git, Bitbucket, VSCode, Figma I’m always excited to tackle new challenges and explore innovative solutions in web development. Let's connect and build something amazing together!
+I'm a Frontend Developer with over 3 years of experience specializing in React.js and Next.js. My journey in web development has been all about creating smooth, responsive, and interactive user experiences. I'm passionate about writing clean, maintainable code and continuously optimizing the frontend performance of applications. 
+
+🔥 What I bring to the table: 
+Advanced skills in React.js and Next.js – from building reusable components to managing complex state with hooks, contexts, and libraries like Redux and React Query. 
+Proficiency in UI/UX Design Principles – focused on making intuitive and visually appealing interfaces with tools like Tailwind CSS, Styled-Components, and Bootstrap. 
+API Integration & State Management – experience working with REST APIs, GraphQL, and managing app state efficiently to ensure data-driven, dynamic applications. 
+Performance Optimization – proficient in code-splitting, lazy loading, and Next.js static generation and server-side rendering to maximize app speed and SEO. 
+
+💡 A Few Highlights: 
+Developed and deployed scalable Next.js applications for high-traffic platforms. 
+Implemented dynamic data handling using React Query and built seamless, interactive UIs with complex logic. 
+Integrated 3D models and animations using libraries like Spline, ensuring cross-device compatibility and high performance.
+
+ 💼 Tech Stack: 
+Languages: JavaScript, TypeScript Frontend: React.js, Next.js, Redux, React Query Styling: Tailwind CSS, Styled-Components, CSS Modules Tools: Git, Bitbucket, VSCode, Figma 
+I’m always excited to tackle new challenges and explore innovative solutions in web development. 
+
+Let's connect and build something amazing together!
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://kranti.vercel.app/)
