@@ -1,38 +1,48 @@
-<h3 align="center">Hello! </h3>
-<h1 align="center">Nice To See You. 😊</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kanti lal
+=================================================================================================================================
 
-<img src="images/hello2.png" alt="hello1" />
+Frontend Engineer | ReactJs | NextJs Developer
+----------------------------------------------
+
+I'm a Frontend Developer with over 3 years of experience specializing in React.js and Next.js. My journey in web development has been all about creating smooth, responsive, and interactive user experiences. I'm passionate about writing clean, maintainable code and continuously optimizing the frontend performance of applications. 🔥 What I bring to the table: Advanced skills in React.js and Next.js – from building reusable components to managing complex state with hooks, contexts, and libraries like Redux and React Query. Proficiency in UI/UX Design Principles – focused on making intuitive and visually appealing interfaces with tools like Tailwind CSS, Styled-Components, and Bootstrap. API Integration & State Management – experience working with REST APIs, GraphQL, and managing app state efficiently to ensure data-driven, dynamic applications. Performance Optimization – proficient in code-splitting, lazy loading, and Next.js static generation and server-side rendering to maximize app speed and SEO. 💡 A Few Highlights: Developed and deployed scalable Next.js applications for high-traffic platforms. Implemented dynamic data handling using React Query and built seamless, interactive UIs with complex logic. Integrated 3D models and animations using libraries like Spline, ensuring cross-device compatibility and high performance. 💼 Tech Stack: Languages: JavaScript, TypeScript Frontend: React.js, Next.js, Redux, React Query Styling: Tailwind CSS, Styled-Components, CSS Modules Tools: Git, Bitbucket, VSCode, Figma I’m always excited to tackle new challenges and explore innovative solutions in web development. Let's connect and build something amazing together!
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [My Portfolio](http://kranti.vercel.app/)
+* ✉️  You can contact me at [kanti.ylocation@gmail.com](mailto:kanti.ylocation@gmail.com)
+* 🚀  I'm currently working on [CodeViva](http://codeviva.in)
+* 🧠  I'm learning Backend Technologies
+* 🤝  I'm open to collaborating on Frontend Development Projects: Whether it's a full-fledged application or a specific feature, I enjoy building intuitive and responsive interfaces using React.js and Next.js. UI/UX Enhancements: I'm passionate about making user experiences smooth and visually engaging. If you need help with component design, animations, or user flow optimizations, let's work together! Performance Optimization: Collaborating on projects that need a boost in speed and efficiency, especially using Next.js optimizations (SSR, SSG), code-splitting, and lazy loading. State Management Solutions: Whether it's React Context, Redux, or React Query, I’m interested in setting up and fine-tuning complex state logic for scalable apps. Open Source Projects: I'd love to contribute to any open-source frontend projects, especially those aimed at developer tools, UI libraries, or design systems.
+* ⚡  Mentorship & Knowledge Sharing: I enjoy connecting with other developers, sharing insights, and learning together. If you're new to React or Next.js or just looking to deepen your frontend skills, I'm open to providing guidance or collaborating on tutorials, blog posts, or resources. Exploring New Frontend Tools: I'm always keen to try out the latest libraries, frameworks, or design tools that enhance the development workflow or improve user experience. If you’re working on something cutting-edge, I’d love to explore it with you! Hackathons & Innovation Projects: Quick prototyping and creative problem-solving are exciting challenges. If you have a fun hackathon project or a unique frontend idea, let’s see what we can create together!
+
+<a href="https://www.github.com/kanti-lal" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/kanti-lal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
 
 
-<h3>Stuff I'm Really Good at</h3>
-<p align="center">
-  <img src="images/react.png" alt="Image 1" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/javascript.png" alt="Image 2" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/nextjs.png" alt="Image 3" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/redux.png" alt="Image 4" width="74" style="display:inline-block; margin-right: 10px;">
-   <img src="images/prisma.png" alt="Image 5" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/pscale.png" alt="Image 6" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/firebase.png" alt="Image 7" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/typescript.png" alt="Image 8" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/zendesk.png" alt="Image 9" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/html5.png" alt="Image 10" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/styled-components.png" alt="Image 11" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/sass.png" alt="Image 12" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/tailwindcss.png" alt="Image 13" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/materialui.png" alt="Image 14" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/antd.png" alt="Image 15" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/formik.png" alt="Image 16" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/bootstrap.png" alt="Image 17" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/semanticui.png" alt="Image 18" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/github.png" alt="Image 19" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/jquery.png" alt="Image 20" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/npm.png" alt="Image 21" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/graphql.png" alt="Image 22" width="74" style="display:inline-block; margin-right: 10px;">
-  <img src="images/jira.png" alt="Image 23" width="74" style="display:inline-block; margin-right: 10px;">
- 
-  
- <h3>Connect with me </h3>
- <a href="https://in.linkedin.com/in/kanti-lal-1342a1a3">
-    <img src="images/linkedinlogo.png" alt="linkedin" width="160">
-</a>
- 
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/kanti-lal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kanti-lal-1342a1a3/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/kanti-lal"><img src="https://github-readme-stats.vercel.app/api?username=kanti-lal&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kanti-lal's GitHub stats" /></a>
+
+<a href="http://www.github.com/kanti-lal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kanti-lal&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/kanti-lal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanti-lal&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/kantilal"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
