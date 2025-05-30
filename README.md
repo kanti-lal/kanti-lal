@@ -1,35 +1,74 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kanti lal
 =================================================================================================================================
 
-Frontend Engineer | ReactJs | NextJs Developer
-----------------------------------------------
+# Fullstack Developer | React.js | Next.js | MERN | GoLang Enthusiast
 
-I'm a Frontend Developer with over 3 years of experience specializing in React.js and Next.js. My journey in web development has been all about creating smooth, responsive, and interactive user experiences. I'm passionate about writing clean, maintainable code and continuously optimizing the frontend performance of applications. 
+Hi there! 👋 I'm a passionate Fullstack Developer with 3.5+ years of experience, specializing in **React.js**, **Next.js**, and the **MERN stack**. My focus is on building clean, scalable, and high-performance web applications with pixel-perfect UI and efficient backend logic.
 
-🔥 What I bring to the table: 
-Advanced skills in React.js and Next.js – from building reusable components to managing complex state with hooks, contexts, and libraries like Redux and React Query. 
-Proficiency in UI/UX Design Principles – focused on making intuitive and visually appealing interfaces with tools like Tailwind CSS, Styled-Components, and Bootstrap. 
-API Integration & State Management – experience working with REST APIs, GraphQL, and managing app state efficiently to ensure data-driven, dynamic applications. 
-Performance Optimization – proficient in code-splitting, lazy loading, and Next.js static generation and server-side rendering to maximize app speed and SEO. 
+I love turning complex problems into simple, elegant solutions that offer intuitive and engaging user experiences. Currently, I'm deepening my backend knowledge and exploring **System Design** and **GoLang**.
 
-💡 A Few Highlights: 
-Developed and deployed scalable Next.js applications for high-traffic platforms. 
-Implemented dynamic data handling using React Query and built seamless, interactive UIs with complex logic. 
-Integrated 3D models and animations using libraries like Spline, ensuring cross-device compatibility and high performance.
+---
 
- 💼 Tech Stack: 
-Languages: JavaScript, TypeScript Frontend: React.js, Next.js, Redux, React Query Styling: Tailwind CSS, Styled-Components, CSS Modules Tools: Git, Bitbucket, VSCode, Figma 
-I’m always excited to tackle new challenges and explore innovative solutions in web development. 
+## 🔥 What I Bring to the Table
 
-Let's connect and build something amazing together!
+- **Advanced React.js & Next.js Skills**  
+  Reusable components, SSR/SSG, dynamic routing, React Hooks, Context API, Redux, React Query
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://kranti.vercel.app/)
-* ✉️  You can contact me at [kanti.ylocation@gmail.com](mailto:kanti.ylocation@gmail.com)
-* 🚀  I'm currently working on [CodeViva](http://codeviva.in)
-* 🧠  I'm learning Backend Technologies
-* 🤝  I'm open to collaborating on Frontend Development Projects: Whether it's a full-fledged application or a specific feature, I enjoy building intuitive and responsive interfaces using React.js and Next.js. UI/UX Enhancements: I'm passionate about making user experiences smooth and visually engaging. If you need help with component design, animations, or user flow optimizations, let's work together! Performance Optimization: Collaborating on projects that need a boost in speed and efficiency, especially using Next.js optimizations (SSR, SSG), code-splitting, and lazy loading. State Management Solutions: Whether it's React Context, Redux, or React Query, I’m interested in setting up and fine-tuning complex state logic for scalable apps. Open Source Projects: I'd love to contribute to any open-source frontend projects, especially those aimed at developer tools, UI libraries, or design systems.
-* ⚡  Mentorship & Knowledge Sharing: I enjoy connecting with other developers, sharing insights, and learning together. If you're new to React or Next.js or just looking to deepen your frontend skills, I'm open to providing guidance or collaborating on tutorials, blog posts, or resources. Exploring New Frontend Tools: I'm always keen to try out the latest libraries, frameworks, or design tools that enhance the development workflow or improve user experience. If you’re working on something cutting-edge, I’d love to explore it with you! Hackathons & Innovation Projects: Quick prototyping and creative problem-solving are exciting challenges. If you have a fun hackathon project or a unique frontend idea, let’s see what we can create together!
+- **UI/UX Focused**  
+  Expert in Tailwind CSS, Styled-Components, Bootstrap – building responsive, accessible, and beautiful UIs
+
+- **State Management & Data Handling**  
+  REST APIs, GraphQL, efficient state handling using Redux Toolkit and React Query
+
+- **Performance Optimization**  
+  Code-splitting, lazy loading, Next.js Image optimization, and SEO-focused development
+
+---
+
+## 💡 Career Highlights
+
+- Built and deployed production-grade **Next.js apps** for high-traffic platforms  
+- Integrated complex animations & **3D visuals using Spline.js** with optimal performance  
+- Designed dynamic interfaces with **React Query** and modular state management  
+- Led performance improvements using Next.js SSR & static generation (SSG)
+
+---
+
+## 💼 Tech Stack
+
+**Languages:** JavaScript, TypeScript, GoLang (learning)  
+**Frontend:** React.js, Next.js, Redux, React Query  
+**Backend:** Node.js, Express.js, MongoDB  
+**Styling:** Tailwind CSS, Styled-Components, CSS Modules  
+**Tools:** Git, GitHub, Bitbucket, Postman, VSCode, Figma  
+
+---
+
+## 🧠 Currently Learning
+- **GoLang** for high-performance backend development  
+- **System Design** to architect scalable and reliable systems
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Fullstack Applications (MERN, React + Node.js)  
+- Frontend/UI/UX Improvements (design systems, animations, accessibility)  
+- Performance Optimization Projects (Next.js SSR/SSG, caching, code splitting)  
+- Open Source Tools, UI Libraries, and Developer-focused Projects  
+- Mentorship, content creation, blog collaborations, or frontend learning sessions  
+
+---
+
+## 📫 Let's Connect
+
+- 🌍 Based in India  
+- 🖥️ [Portfolio](http://kranti.vercel.app/)  
+- ✉️ [kanti.ylocation@gmail.com](mailto:kanti.ylocation@gmail.com)  
+- 🚀 Working on [CodeViva](https://codeviva.in)
+
+Always looking to collaborate, contribute, or connect with fellow devs. Let’s build something impactful together!
+
 
 <a href="https://www.github.com/kanti-lal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kanti-lal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
