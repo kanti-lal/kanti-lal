@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kanti lal
 =================================================================================================================================
 
-# Fullstack Developer | React.js | Next.js | MERN | GoLang Enthusiast
+# Software Engineer | React.js | Next.js | MERN | NestJS
 
 Hi there! 👋 I'm a passionate Fullstack Developer with 3.5+ years of experience, specializing in **React.js**, **Next.js**, and the **MERN stack**. My focus is on building clean, scalable, and high-performance web applications with pixel-perfect UI and efficient backend logic.
 
@@ -38,7 +38,7 @@ I love turning complex problems into simple, elegant solutions that offer intuit
 
 **Languages:** JavaScript, TypeScript, GoLang (learning)  
 **Frontend:** React.js, Next.js, Redux, React Query  
-**Backend:** Node.js, Express.js, MongoDB  
+**Backend:** Node.js, Express.js, Nestjs, MongoDB  
 **Styling:** Tailwind CSS, Styled-Components, CSS Modules  
 **Tools:** Git, GitHub, Bitbucket, Postman, VSCode, Figma  
 
