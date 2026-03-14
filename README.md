@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # Software Engineer | React.js | Next.js | MERN | NestJS
 
-Hi there! 👋 I'm a passionate Fullstack Developer with 3.5+ years of experience, specializing in **React.js**, **Next.js**, and the **MERN stack**. My focus is on building clean, scalable, and high-performance web applications with pixel-perfect UI and efficient backend logic.
+Hi there! 👋 I'm a passionate Fullstack Developer with 4.4+ years of experience, specializing in **React.js**, **Next.js**, and the **MERN stack**. My focus is on building clean, scalable, and high-performance web applications with pixel-perfect UI and efficient backend logic.
 
 I love turning complex problems into simple, elegant solutions that offer intuitive and engaging user experiences. Currently, I'm deepening my backend knowledge and exploring **System Design** and **GoLang**.
 
